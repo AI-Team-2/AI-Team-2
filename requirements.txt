@@ -1,5 +1,0 @@
-numpy
-Flask
-matplotlib
-pandas
-tensorflow-cpu
